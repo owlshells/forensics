@@ -6,5 +6,9 @@ https://download.ericzimmermanstools.com/Get-ZimmermanTools.zip
 
 # Reversing
 
-# Azure
-## cloud
+# Cloud
+
+## Azure
+
+## AWS
+
