@@ -24,3 +24,4 @@ https://github.com/syne0/osprey
 
 # Endpoint & Disk
 
+https://medium.com/@rihanmujahid46/live-windows-forensics-using-powershell-and-sysinternals-c6997e869075
