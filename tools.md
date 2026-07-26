@@ -16,6 +16,8 @@ https://github.com/nationalsecurityAgency/ghidra
 
 https://hawkforensics.io/
 
+https://github.com/syne0/osprey
+
 ## Azure
 
 ## AWS
