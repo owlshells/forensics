@@ -12,6 +12,10 @@ https://github.com/nationalsecurityAgency/ghidra
 
 # Cloud
 
+## 365
+
+https://hawkforensics.io/
+
 ## Azure
 
 ## AWS
