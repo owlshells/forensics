@@ -6,6 +6,8 @@ https://download.ericzimmermanstools.com/Get-ZimmermanTools.zip
 
 https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/
 
+# Encoding/Decoding
+
 # Reversing
 
 https://github.com/nationalsecurityAgency/ghidra
