@@ -24,4 +24,6 @@ https://github.com/syne0/osprey
 
 # Endpoint & Disk
 
+https://www.exterro.com/digital-forensics-software/ftk-imager
+
 https://medium.com/@rihanmujahid46/live-windows-forensics-using-powershell-and-sysinternals-c6997e869075
