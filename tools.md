@@ -6,6 +6,8 @@ https://download.ericzimmermanstools.com/Get-ZimmermanTools.zip
 
 # Reversing
 
+https://github.com/nationalsecurityAgency/ghidra
+
 # Cloud
 
 ## Azure
